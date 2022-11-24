@@ -6,6 +6,7 @@ import { MenuComponent } from './menu/menu.component';
 import { PizzaListComponent } from './pizza-list/pizza-list.component';
 import { BurgerListComponent } from './burger-list/burger-list.component';
 import { DessertListComponent } from './dessert-list/dessert-list.component';
+import { BeveragetListComponent } from './beveraget-list/beveraget-list.component';
 
 @NgModule({
   declarations: [
@@ -13,7 +14,8 @@ import { DessertListComponent } from './dessert-list/dessert-list.component';
     MenuComponent,
     PizzaListComponent,
     BurgerListComponent,
-    DessertListComponent
+    DessertListComponent,
+    BeveragetListComponent
   ],
   imports: [
     BrowserModule
