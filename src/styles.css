@@ -3,4 +3,13 @@ h1{
 }
 .card{
     border-radius: 10px;
+    background-color:whitesmoke;
+    
+}
+.card:hover{
+    transform: scale(1.1); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+
+}
+body{
+  background-color: blanchedalmond;  
 }
