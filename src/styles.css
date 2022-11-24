@@ -1,3 +1,6 @@
 h1{
     font-family: 'Fredoka One', cursive;
 }
+.card{
+    border-radius: 10px;
+}
